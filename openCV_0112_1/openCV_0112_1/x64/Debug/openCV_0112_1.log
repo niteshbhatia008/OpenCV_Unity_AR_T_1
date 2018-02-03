@@ -1,0 +1,9 @@
+﻿  main1.cpp
+c:\users\fang\desktop\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\fang\desktop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\fang\desktop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\fang\desktop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\fang\desktop\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 F:\CProject\OpenCV\openCV_0112_1\x64\Debug\openCV_0112_1.lib 和对象 F:\CProject\OpenCV\openCV_0112_1\x64\Debug\openCV_0112_1.exp
+  openCV_0112_1.vcxproj -> F:\CProject\OpenCV\openCV_0112_1\x64\Debug\openCV_0112_1.dll
+  openCV_0112_1.vcxproj -> F:\CProject\OpenCV\openCV_0112_1\x64\Debug\openCV_0112_1.pdb (Full PDB)
